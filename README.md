@@ -25,18 +25,18 @@ Welcome to my GitHub profile! I’m passionate about building dynamic, scalable,
 
 🛠 What I Do
 
-    •	Crafting responsive and dynamic web applications
-    •	Working with modern frontend frameworks such as React, Vue, Nuxt, Next, and Angular
-    •	Building reusable components and ensuring high-performance UI using TailwindCSS, Element-UI, and Prime-UI
-    •	Writing clean and efficient TypeScript and JavaScript code
-    •	Ensuring code quality with VTest and continuous integration tools like Jenkins
-    •	Working with Docker for containerized applications
-    •	Monitoring and visualizing data using Grafana
+    • Crafting responsive and dynamic web applications
+    • Working with modern frontend frameworks such as React, Vue, Nuxt, Next, and Angular
+    • Building reusable components and ensuring high-performance UI using TailwindCSS, Element-UI, and Prime-UI
+    • Writing clean and efficient TypeScript and JavaScript code
+    • Ensuring code quality with VTest and continuous integration tools like Jenkins
+    • Working with Docker for containerized applications
+    • Monitoring and visualizing data using Grafana
 
 🌱 Currently Learning
 
-    •	Advanced Web Performance Optimization techniques
-    •	Scaling micro frontends using modern frameworks
+    • Advanced Web Performance Optimization techniques
+    • Scaling micro frontends using modern frameworks
     • Golang for micro service (Backend)
     • Web Security and API response
     • RDBMS (Relational Database Management System) and NoSQL
