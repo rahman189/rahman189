@@ -37,10 +37,9 @@ Welcome to my GitHub profile! I’m passionate about building dynamic, scalable,
 
     •	Advanced Web Performance Optimization techniques
     •	Scaling micro frontends using modern frameworks
-
-• Golang for micro service (Backend)
-• Web Security and API response
-• RDBMS (Relational Database Management System) and NoSQL
+    • Golang for micro service (Backend)
+    • Web Security and API response
+    • RDBMS (Relational Database Management System) and NoSQL
 
 💬 Let’s Connect
 
